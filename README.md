@@ -10,9 +10,4 @@ This is a simple React web application to manage and display a list of healthcar
 - Delete services from the list.
 - Responsive design and smooth animations.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <repo-url>
-   cd healthcare-services-app
