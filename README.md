@@ -1,6 +1,6 @@
-# Healthcare Services Management App
+# Healthcare Services Management Website
 
-This is a simple React web application to manage and display a list of healthcare services. Users can add, update, and delete services from the list.
+This is a simple React website  to manage and display a list of healthcare services. Users can add, update, and delete services from the list.
 
 ## Features
 
